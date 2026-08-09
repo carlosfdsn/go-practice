@@ -9,6 +9,7 @@ A ideia é resolver os problemas **sem IA e sem copiar soluções**, tentando ch
 | #  | Projeto            | Conceito            |
 | -- | ------------------ | ------------------- |
 | 01 | Frequency Counter  | Maps, slices, loops |
+| 02 | Find Maximum  | Slices, loops, comparisons  |
 
 ## 🎯 Objetivo
 
