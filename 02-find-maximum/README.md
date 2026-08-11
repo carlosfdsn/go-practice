@@ -1,4 +1,4 @@
-# 03 — Find Maximum
+# 02 — Find Maximum
 
 Exercício em Go focado na iteração de slices, comparação de valores e análise de complexidade.
 
